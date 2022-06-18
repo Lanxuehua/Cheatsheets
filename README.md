@@ -1,2 +1,2 @@
 # Cheatsheets
-Cheatsheets for coding
+This is a repository of cheatsheets for coding.
